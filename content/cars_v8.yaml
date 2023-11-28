@@ -1,0 +1,8 @@
+path: 'datasets/'
+train: 'train/images'
+val: 'val/images'
+
+# class names
+names:
+  0: 'car'
+  1: 'wheel'
